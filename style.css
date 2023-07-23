@@ -45,3 +45,9 @@ body{
             width: 100%;
          }
 }
+/* medium device */
+@media screen and (min-width:576px) and (max-width:992px) {
+           .banner-img{
+            width: 100%;
+         }
+}
